@@ -9,5 +9,4 @@ Controls - W/S/A/D or up/down/left/right arrows for moving the Player
 ![Screenshots](/Screenshot (3).png)
 ![Screenshots](/Screenshot (4).png)
 
-(Click here) (https://ikabir.itch.io/rollar-madness) to play it.
-![Click here](https://ichankabir.ml)
+![Click here](https://ikabir.itch.io/rollar-madnessl) to play it.
