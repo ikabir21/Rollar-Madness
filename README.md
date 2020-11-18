@@ -4,7 +4,7 @@ Its a simple 3D game created using unity game engine. It contains two levels. Ta
 
 Controls - W/S/A/D or up/down/left/right arrows for moving the Player
 
-![Screenshots](Screenshot (1).png)
+![Screenshots](https://github.com/ikabir21/Rollar-Madness/blob/main/Screenshot%20(1).png)
 ![Screenshots](Screenshot (2).png)
 ![Screenshots](Screenshot (3).png)
 ![Screenshots](Screenshot (4).png)
